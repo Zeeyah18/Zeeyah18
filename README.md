@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abigail Ola
+# Hi, I'm Abigail 
 **BSIT Student | Aspiring Developer | Creative Writer**  
 
 I love creating projects, exploring new technologies, and telling stories through code.  
