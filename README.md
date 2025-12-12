@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/9OCL8oC.png" width="100%" alt="Banner"/>
-</p>
-
 # 👋 Hi, I'm Abigail Ola
 **BSIT Student | Aspiring Developer | Creative Writer**  
 
@@ -43,9 +38,7 @@ I love creating projects, exploring new technologies, and telling stories throug
 
 ## 📫 Connect with Me
 - 📧 Email: abigailola1818@gmail.com  
-- 📱 Phone: 09068848214  
-- 🌐 LinkedIn: [YourLinkedInURL](https://www.linkedin.com/)  
-- 🌐 Portfolio: [YourPortfolioURL](https://)  
+- 📱 Phone: 09068848214    
 
 ---
 
