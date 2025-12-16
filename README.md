@@ -14,12 +14,12 @@ I love creating projects, exploring new technologies, and telling stories throug
 
 ## 🛠️ My Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github" />
 </p>
 
 ---
 
-## 🚀 Projects I’m Proud Of
+## 🚀 Projects I’m Proud Of(Not yet done😁)
 - 📖 **Story Writing App (Java)** – an app to write and organize stories  
 - 🌐 **Personal Portfolio Website** – HTML/CSS/JS  
 - 📚 **Library Management System** – manages books and borrowing  
