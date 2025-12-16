@@ -8,8 +8,7 @@ I love creating projects, exploring new technologies, and telling stories throug
 ## 🌱 What I’m Currently Learning
 - Java GUI (Swing / JavaFX)  
 - Database Management (MySQL)  
-- Web Development (HTML, CSS, JavaScript)  
-- Mobile App Development (Android)  
+- Web Development (HTML, CSS, JavaScript)   
 
 ---
 
